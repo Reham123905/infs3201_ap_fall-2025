@@ -1,4 +1,5 @@
 const persistence = require('./persistence')
+
 /**
  * Find a user by username and password.
  * @param {string} username - The username of the user.
